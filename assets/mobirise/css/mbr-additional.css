@@ -729,7 +729,6 @@ section.lazy-placeholder:after {
   background: #ffffff;
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s0Ir8TwlzV .video-block {
   margin: auto;
@@ -740,8 +739,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s0IrUAhld4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #fd0606;
 }
 .cid-s0IrUAhld4 .mbr-section-subtitle {
